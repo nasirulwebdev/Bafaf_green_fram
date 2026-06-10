@@ -1,0 +1,14 @@
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+routes/
+tests/
+artisan
+composer.json
+composer.lock (Production Project হলে সাধারণত রাখা হয়)
+package.json
+package-lock.json
+vite.config.js
